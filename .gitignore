@@ -1,2 +1,2 @@
-*.js
+/compiled/
 /node_modules/
