@@ -1,6 +1,3 @@
 [submodule "simpleToes_js"]
 	path = simpleToes_js
 	url = git@github.com:escottalexander/simpleTones.js
-[submodule "simpleTones_js"]
-	path = simpleTones_js
-	url = git@github.com:escottalexander/simpleTones.js
