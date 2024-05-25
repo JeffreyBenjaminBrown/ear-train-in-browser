@@ -1,3 +1,5 @@
+import * as FriendCard from './../pages/FriendCard';
+
 // create a new heading 1 element
 let heading = document.createElement('h1')
 heading.textContent = 'Hello, World!'
