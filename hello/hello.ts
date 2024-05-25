@@ -1,8 +1,6 @@
-import * as FriendCard from './../pages/FriendCard';
+import * as st from "./simpleTones.js"
 
-// create a new heading 1 element
+// create a title
 let heading = document.createElement('h1')
 heading.textContent = 'Hello, World!'
-
-// add the heading the document
 document.body.appendChild(heading)
